@@ -8,11 +8,11 @@ function renderPage(event) {
   if (target.matches('.project-1')) {
     window.open("https://scheng0718.github.io/adele-power/", "_blank");
   } else if (target.matches('.project-2')) {
-    window.open("https://codepen.io/scheng0718/full/MWPjdOj?editors=1010", "_blank");
+    window.open("https://scheng0718.github.io/boba_tea_lover/", "_blank");
   } else if (target.matches('.project-3')) {
-    window.open("https://codepen.io/scheng0718/full/yLRMopE", "_blank");
+    window.open("https://scheng0718.github.io/world_of_cinema/", "_blank");
   } else if (target.matches('.project-4')) {
-    window.open("https://codepen.io/scheng0718/full/JjmRWGG", "_blank");
+    window.open("https://scheng0718.github.io/stay_organized/", "_blank");
   }
 }
 
